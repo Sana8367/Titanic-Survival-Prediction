@@ -4,18 +4,18 @@
 To build a predictive model that determines whether a passenger survived or not based on features like age, sex, class, fare, family size, etc.
 
 📊 Dataset Features:
-PassengerId: Unique ID for each passenger
-Pclass: Passenger class (1st, 2nd, 3rd)
-Name: Passenger's name
-Sex: Gender
-Age: Age of the passenger
-SibSp: Number of siblings/spouses aboard
-Parch: Number of parents/children aboard
-Ticket: Ticket number
-Fare: Ticket fare
-Cabin: Cabin number
-Embarked: Port of Embarkation (C, Q, S)
-Survived: Target variable (0 = No, 1 = Yes)
+PassengerId: Unique ID for each passenger,
+Pclass: Passenger class (1st, 2nd, 3rd),
+Name: Passenger's name,
+Sex: Gender,
+Age: Age of the passenger,
+SibSp: Number of siblings/spouses aboard,
+Parch: Number of parents/children aboard,
+Ticket: Ticket number,
+Fare: Ticket fare,
+Cabin: Cabin number,
+Embarked: Port of Embarkation (C, Q, S),
+Survived: Target variable (0 = No, 1 = Yes),
 
 🔍 Steps Involved:
 
